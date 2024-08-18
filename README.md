@@ -1,0 +1,3 @@
+```
+bun src/index.ts
+```
